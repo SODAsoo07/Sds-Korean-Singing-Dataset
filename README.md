@@ -5,7 +5,7 @@
 
 각 데이터는 음성제공자/권리 보유자가 다르므로 데이터에 관해 문의사항이 있을 때에는 표기된 연락처로 문의 부탁드립니다.
 
-음소 라벨의 표기법은 Team CODA 형식을 따릅니다. (https://github.com/Coda-SVS/diffsinger-korean-support?tab=readme-ov-file)
+음소 라벨의 표기법은 [Team CODA 형식](https://github.com/Coda-SVS/diffsinger-korean-support?tab=readme-ov-file)을 따릅니다.
 
 ----
 
