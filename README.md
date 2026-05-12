@@ -18,7 +18,7 @@
 22분 40초 분량, 아마추어 성인 여성의 가창 데이터
 - 음소 단위 라벨링 미포함 (추후 추가 예정)
 - 음성제공자, 관리자: SODAsoo
-- 연락처 [https://github.com/geujang](https://github.com/SODAsoo07) / Twitter(X) @SODAsodasoo / Discord sodasoo0060
+- 연락처 https://github.com/SODAsoo07 / Twitter(X) @SODAsodasoo / Discord sodasoo0060
  
 ----
 
