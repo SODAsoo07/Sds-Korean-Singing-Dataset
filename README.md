@@ -11,15 +11,15 @@
 
 ### Mechol-001
 약 30분 분량, 아마추어 청소년 남성의 가창 데이터
-- 음소 단위 라벨링 포함 (sinsy lab 형식)
-- 음성제공자, 관리자: Mechol
+- 음소 단위 라벨링 포함 (sinsy lab 형식) |Included phone-level label (sinsy lab type)
+- 음성제공자 Voice Provider, 관리자 Maintainer: Mechol
 - 연락처 https://github.com/geujang / Twitter(X) @Yh_evil
 
 ### SODAsoo-001-KR
 22분 40초 분량, 아마추어 성인 여성의 가창 데이터
-- 음소 단위 라벨링 미포함 (추후 추가 예정)
-- 음성제공자, 관리자: SODAsoo
-- 연락처 https://github.com/SODAsoo07 / Twitter(X) @SODAsodasoo / Discord sodasoo0060
+- 음소 단위 라벨링 추가 중 (현재 1곡만 제공됨) | Now adding phone-level label (currently only 1 song available)
+- 음성제공자 Voice Provider, 관리자 Maintainer: SODAsoo
+- 연락처 Contact https://github.com/SODAsoo07 / Twitter(X) @SODAsodasoo / Discord sodasoo0060
  
 ----
 
@@ -32,3 +32,18 @@
 데이터셋의 곡 자체에 대해서는 음성제공자 또는 관리자가 저작권을 소유하고 있지 않음을 밝힙니다.
 
 상식선에서 데이터를 사용해주세요.
+
+---
+
+- English has been translated into machine translation.
+
+It is free to use the data for research and personal hobby purposes (ex: learning defsinger voice bank). Use for commercial purposes is mandatory for voice providers and administrators to contact them in advance.
+
+Please indicate the source when using the data for the above purpose.
+
+It completely prohibits the use of this dataset for malicious purposes, such as hate speech, political incitement, impersonation, and publicly unpostable sexual expression.
+
+Reveals that the song itself in the dataset is not copyrighted by the voice provider or maintainer.
+
+Please use data in common sense.
+
