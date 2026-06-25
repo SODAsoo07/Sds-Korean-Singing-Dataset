@@ -23,7 +23,7 @@
  
 ----
 
-연구, 개인적 취미 목적(ex: 디프싱어 보이스뱅크 학습)으로 해당 데이터를 활용하는 것은 자유입니다. 상업적 목적의 이용은 음성제공자, 관리자에게 사전 문의 필수입니다.
+연구, 개인적 취미 목적(ex: 디프싱어 보이스뱅크 학습)으로 해당 데이터를 활용하는 것은 해당 데이터가 결과물을 통해 직접적으로 출력되는 형식이 아닌 한 자유입니다. 상업적 목적의 이용은 현재 곡 저작권의 문제로 불가합니다. (추후 저작권이 만료된 곡만을 포함한 데이터를 업로드 예정입니다.)
 
 위 목적으로 데이터 사용 시 출처 표기를 부탁드립니다.
 
@@ -37,8 +37,7 @@
 
 - English has been translated into machine translation.
 
-It is free to use the data for research and personal hobby purposes (ex: learning defsinger voice bank). Use for commercial purposes is mandatory for voice providers and administrators to contact them in advance.
-
+Research, personal hobby purposes (ex: learning defsinger voice banks) are free to use such data unless it is in a format that is directly output through the output. Commercial purposes are currently unavailable due to music copyright issues. (We plan to upload data containing songs that have expired copyrights in the future.)
 Please indicate the source when using the data for the above purpose.
 
 It completely prohibits the use of this dataset for malicious purposes, such as hate speech, political incitement, impersonation, and publicly unpostable sexual expression.
