@@ -23,13 +23,13 @@
  
 ----
 
-연구, 개인적 취미 목적(ex: 디프싱어 보이스뱅크 학습)으로 해당 데이터를 활용하는 것은 해당 데이터가 결과물을 통해 직접적으로 출력되는 형식이 아닌 한 자유입니다. 상업적 목적의 이용은 현재 곡 저작권의 문제로 불가합니다. (추후 저작권이 만료된 곡만을 포함한 데이터를 업로드 예정입니다.)
+연구, 벤치마크 등으로 해당 데이터를 활용하는 것은 해당 데이터가 산출물에 직접적으로 포함/출력되지 않는 한 자유입니다. 상업적 목적의 이용은 현재 곡 저작권의 문제로 불가합니다. (추후 저작권이 만료된 곡만을 포함한 데이터를 업로드 예정입니다.)
 
 위 목적으로 데이터 사용 시 출처 표기를 부탁드립니다.
 
 혐오표현, 정치적 선동, 사칭, 공개적으로 게시 불가한 수위의 성적 표현 등 악의적인 목적으로 본 데이터셋을 사용하는 것을 전면 금지합니다.
 
-데이터셋의 곡 자체에 대해서는 음성제공자 또는 관리자가 저작권을 소유하고 있지 않음을 밝힙니다.
+데이터셋의 곡 자체에 대해서는 음성제공자 또는 관리자가 저작권을 소유하고 있지 않음을 밝힙니다. 저작권이 만료되지 않은 곡을 학습에 사용했을 시의 법적 책임 등은 모두 사용자에게 있습니다.
 
 상식선에서 데이터를 사용해주세요.
 
@@ -37,12 +37,14 @@
 
 - English has been translated into machine translation.
 
-Research, personal hobby purposes (ex: learning defsinger voice banks) are free to use such data unless it is in a format that is directly output through the output. Commercial purposes are currently unavailable due to music copyright issues. (We plan to upload data containing songs that have expired copyrights in the future.)
+
+
+You are free to use the data for research, benchmarks, etc., unless the data is directly included/printed in the output. Commercial purposes are currently unavailable due to music copyright issues. (We plan to upload data including only songs whose copyright has expired in the future.)
+
 Please indicate the source when using the data for the above purpose.
 
 It completely prohibits the use of this dataset for malicious purposes, such as hate speech, political incitement, impersonation, and publicly unpostable sexual expression.
 
-Reveals that the song itself in the dataset is not copyrighted by the voice provider or maintainer.
+It reveals that the song in the dataset itself is not copyrighted by the voice provider or manager. The user is liable for the use of a song that has not expired copyright for learning.
 
-Please use data in common sense.
-
+Please use the data in the common sense line.
