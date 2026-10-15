@@ -17,7 +17,7 @@
 
 ### SODAsoo-001-KR
 22분 40초 분량, 아마추어 성인 여성의 가창 데이터
-- 음소 단위 라벨링 추가 중 (현재 1곡만 제공됨) | Now adding phone-level label (currently only 1 song available)
+- 음소 단위 라벨링 추가 중 (현재 5곡만 제공됨) | Now adding phone-level label (currently only 5 song available)
 - 음성제공자 Voice Provider, 관리자 Maintainer: SODAsoo
 - 연락처 Contact https://github.com/SODAsoo07 / Twitter(X) @SODAsodasoo / Discord sodasoo0060
  
