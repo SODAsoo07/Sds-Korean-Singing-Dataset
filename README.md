@@ -9,12 +9,6 @@
 
 ----
 
-### Mechol-001
-약 30분 분량, 아마추어 청소년 남성의 가창 데이터
-- 음소 단위 라벨링 포함 (sinsy lab 형식) |Included phone-level label (sinsy lab type)
-- 음성제공자 Voice Provider, 관리자 Maintainer: Mechol
-- 연락처 https://github.com/geujang / Twitter(X) @Yh_evil
-
 ### SODAsoo-001-KR
 22분 40초 분량, 아마추어 성인 여성의 가창 데이터
 - 음소 단위 라벨링 추가 중 (현재 5곡만 제공됨) | Now adding phone-level label (currently only 5 song available)
