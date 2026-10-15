@@ -33,6 +33,8 @@
 
 상식선에서 데이터를 사용해주세요.
 
+이 데이터는 "있는 그대로" 제공됩니다. 본 데이터를 사용하여 입는 피해에 대해 게시자 및 관리자, 음성제공자는 책임지지 않습니다.
+
 ---
 
 - English has been translated into machine translation.
@@ -48,3 +50,5 @@ It completely prohibits the use of this dataset for malicious purposes, such as 
 It reveals that the song in the dataset itself is not copyrighted by the voice provider or manager. The user is liable for the use of a song that has not expired copyright for learning.
 
 Please use the data in the common sense line.
+
+This data is provided "as is." The publisher, administrators, and voice providers are not responsible for any harm caused by the use of this data.
