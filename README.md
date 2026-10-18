@@ -44,12 +44,14 @@
 
 이 데이터는 "있는 그대로" 제공됩니다. 본 데이터를 사용하여 입는 피해에 대해 게시자 및 관리자, 음성제공자는 책임지지 않습니다.
 
+해당 이용규약은 소급 적용됩니다.
+
 ---
 
 - English has been translated into machine translation.
 
 
-Using the data for research, benchmarks, and similar purposes is unrestricted as long as the data is not directly included in or output as an output. If you plan to deploy models that directly include or output the characteristics of the data, please contact us in advance.
+Using the data for research, benchmarks, and similar purposes is unrestricted as long as the data is not directly included in or output as an output. If you plan to deploy models that directly include or output the characteristics of this data, please contact me in advance.
 
 Commercial use is currently not permitted due to copyright issues. (Data including only songs with expired copyrights will be uploaded later.)
 
@@ -63,3 +65,5 @@ It reveals that the song in the dataset itself is not copyrighted by the voice p
 Please use the data in the common sense line.
 
 This data is provided "as is." The publisher, administrators, and voice providers are not responsible for any harm caused by the use of this data.
+
+These terms of use apply retroactively.
